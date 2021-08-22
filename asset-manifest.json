@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/css-grid-tutorial/static/css/main.a53cefd7.chunk.css",
+    "main.js": "/css-grid-tutorial/static/js/main.1e82f6ea.chunk.js",
+    "main.js.map": "/css-grid-tutorial/static/js/main.1e82f6ea.chunk.js.map",
+    "runtime-main.js": "/css-grid-tutorial/static/js/runtime-main.39b9718f.js",
+    "runtime-main.js.map": "/css-grid-tutorial/static/js/runtime-main.39b9718f.js.map",
+    "static/js/2.610556f3.chunk.js": "/css-grid-tutorial/static/js/2.610556f3.chunk.js",
+    "static/js/2.610556f3.chunk.js.map": "/css-grid-tutorial/static/js/2.610556f3.chunk.js.map",
+    "static/js/3.d20e8831.chunk.js": "/css-grid-tutorial/static/js/3.d20e8831.chunk.js",
+    "static/js/3.d20e8831.chunk.js.map": "/css-grid-tutorial/static/js/3.d20e8831.chunk.js.map",
+    "index.html": "/css-grid-tutorial/index.html",
+    "static/css/main.a53cefd7.chunk.css.map": "/css-grid-tutorial/static/css/main.a53cefd7.chunk.css.map",
+    "static/js/2.610556f3.chunk.js.LICENSE.txt": "/css-grid-tutorial/static/js/2.610556f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39b9718f.js",
+    "static/js/2.610556f3.chunk.js",
+    "static/css/main.a53cefd7.chunk.css",
+    "static/js/main.1e82f6ea.chunk.js"
+  ]
+}
